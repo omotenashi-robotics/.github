@@ -20,6 +20,20 @@
 
 ---
 
+## Joint Digital Platforms & Open Datasets（共同開発デジタル基盤・オープンデータ CC BY 4.0）
+
+- **ホームワイン / Homewine（株式会社WINE TRAILとの共同開発・共同運営基盤）**: https://homewine.jp/
+  - **数字と一次データで見るホームワイン（CC BY 4.0 統計ハブ）**: https://homewine.jp/facts/
+  - **世界ワイン公式格付け完全台帳（全183枠）**: https://homewine.jp/store/classifications/
+  - **AIワインソムリエ（ラベル画像マルチモーダル解析）**: https://homewine.jp/store/scan/
+  - **ソムリエ・WE試験 一問一答Webドリル（全1,000問）**: https://homewine.jp/academy/drill/
+- **Open Benchmark Repositories**:
+  - [`omotenashi-robotics/hotel-linen-benchmark`](https://github.com/omotenashi-robotics/hotel-linen-benchmark) — Commercial Hotel Linen Cost & Specification Dataset
+  - [`omotenashi-robotics/wine-open-benchmarks`](https://github.com/omotenashi-robotics/wine-open-benchmarks) — World Wine Classifications (183), Vintage Scores (20×18y) & 100 Japanese Dish Pairings Dataset
+  - **Open Data Portal (GitHub Pages)**: https://omotenashi-robotics.github.io/
+
+---
+
 ## Research & Physical AI（研究開発）
 
 机上のPoCにとどまらず、[自社リネンサプライ工場](https://omotenashi-linensupply.co.jp/factory/)のタオル畳み・検品工程に双腕ロボットを実機投入し、Vision-Language-Action (VLA) モデルの現場配備・高速再生・失敗回復の研究開発を行っています。
